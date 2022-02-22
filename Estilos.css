@@ -2,7 +2,9 @@ body {
   background-repeat: no-repeat;
   background: white url(Presentacion.jpg) no-repeat;
   background-size: cover;
-  background-position: right top;
+  background-position: right left;
+  
+ 
 }
 h1 {
   text-align: center;
